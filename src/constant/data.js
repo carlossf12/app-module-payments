@@ -5,9 +5,14 @@ export const menuItems = [
   },
 
   {
-    title: "Dashboard",
+    title: "Pagos",
     icon: "heroicons-outline:home",
     link: "dashboard",
+  },
+  {
+    title: "Soporte",
+    icon: "heroicons-outline:home",
+    link: "chat",
   },
   {
     title: "Multi Level",

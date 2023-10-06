@@ -4,7 +4,7 @@ import Card from "@/components/ui/Card";
 const Dashboard = () => {
   return (
     <div>
-      <Card title="Starter Kit">Your Dashboard</Card>
+      <Card title="Formas de pago">Pagos</Card>
     </div>
   );
 };
